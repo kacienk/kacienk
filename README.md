@@ -1,8 +1,9 @@
 ### Hi there
 
-I am studying at AGH University
+I am a student of AGH UST.
 
-I use this acccount to complete tasks for narzedzia informatyczne. 
+I am currently working on [Engine Data Analyser](https://github.com/kacienk/Engine-Data-Analyser)
+
 In the future I am going to make repo in which I will keep my old C++ codes.
 
 [My site](https://kacienk.github.io/)
