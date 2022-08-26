@@ -2,7 +2,7 @@
 
 I am a student of AGH UST.
 
-I am currently working on [Engine Data Analyser](https://github.com/kacienk/Engine-Data-Analyser)
+I am currently working on [Engine Data Analyser](https://github.com/kacienk/Engine-Data-Analyser).
 
 In the future I am going to make repo in which I will keep my old C++ codes.
 
