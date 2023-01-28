@@ -1,6 +1,6 @@
 ### Hi there
 
-I am a student of AGH UST.
+I am a student at AGH UST.
 
 I currently work on [Engine Data Analyser](https://github.com/kacienk/Engine-Data-Analyser).
 
