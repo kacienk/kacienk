@@ -1,10 +1,10 @@
 ### Hi there
 
-I am a student at AGH UST.
+I am a student of AGH UST. 
 
-I currently work on [Engine Data Analyser](https://github.com/kacienk/Engine-Data-Analyser).
+The project that I have been working on lately is [Bydlac](https://github.com/kacienk/Bydlac). 
 
-In the future I am going to make repo in which I will keep my old C++ codes.
+I once partook an algoritmic course during which I wrote a few problem solutions in C++. One day I am going to create a repository and share these sollutions. One day...
 
 [My site](https://kacienk.github.io/)
 <!--
