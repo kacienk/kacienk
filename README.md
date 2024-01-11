@@ -1,6 +1,6 @@
 ### Hi there
 
-I am a student of AGH UST. 
+I am a student at AGH UST. 
 
 The project that I have been working on lately is [Bydlac](https://github.com/kacienk/Bydlac). 
 
