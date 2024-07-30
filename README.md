@@ -1,12 +1,13 @@
-### Hi there
+### Hello, world!
 
-I am a student at AGH UST. 
+🏫  I am pursuing a Bachelor's degree in Computer Science at AGH UST, with an expected graduation in February 2025.
 
-The project that I have been working on lately is [Bydlac](https://github.com/kacienk/Bydlac). 
+🌱  I am currently learning the fascinating Rust language.
 
-I once partook an algoritmic course during which I wrote a few problem solutions in C++. One day I am going to create a repository and share these sollutions. One day...
+☕  After hours, I enjoy reading books and discovering cafes in Cracow.
 
-[My site](https://kacienk.github.io/)
+[![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacienk&show_icons=true&theme=merko&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacienk&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kacienk/kacienk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
