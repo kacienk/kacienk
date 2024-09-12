@@ -4,7 +4,7 @@
 
 🌱  I am currently learning the fascinating Rust language.
 
-☕  After hours, I enjoy reading books and discovering cafes in Cracow.
+☕  After hours I enjoy reading books and discovering cafes in Cracow.
 
 [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacienk&show_icons=true&theme=merko&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacienk&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
