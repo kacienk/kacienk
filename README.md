@@ -1,10 +1,10 @@
 ### Hello, world!
 
-🏫  I am pursuing a Bachelor's degree in Computer Science at AGH UST, with an expected graduation in February 2025.
+🏫  I am pursuing a Master's degree in Computer Science at AGH UST, with an expected graduation in June 2026.
 
 🌱  I am currently learning the fascinating Rust language.
 
-☕  After hours I enjoy reading books and discovering cafes in Cracow.
+☕  After hours I enjoy reading books, playing guitar and discovering cafes in Cracow.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacienk&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
