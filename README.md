@@ -6,7 +6,7 @@
 
 ☕  After hours I enjoy reading books, playing guitar and discovering cafes in Cracow.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacienk&show_icons=true&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacienk&show_icons=true&theme=merko&layout=compact&hide=jupyter%20notebook,TeX)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kacienk/kacienk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacienk&show_icons=true&theme=merko&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
